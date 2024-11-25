@@ -7,6 +7,6 @@ function verificar() {
     if (media >=60){
         resultado.textContent= 'aprovado';
     } else {
-        resultado.textcontent= 'reprovado';
+        resultado.textContent= 'reprovado';
     }
 }
